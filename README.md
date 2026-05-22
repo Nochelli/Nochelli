@@ -8,23 +8,3 @@ Experienced Systems Administrator specializing in IBM z/OS.
 
 
 _Visit the repository_ `Monitor_Abend` _I recently worked on this Python automation that triggers alerts for ABEND jobs in the IBM z/OS Mainframe._ 😉
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="700"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="700"/>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="700"/>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/fqWmG7g1m9AAAAAC/terminal.gif" width="700"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="700"/>
-</p>
