@@ -1,6 +1,6 @@
 Hello! I’m Jeferson.
 
-Experienced Systems Administrator specializing in IBM z/OS.
+Experienced Systems Administrator in IBM z/OS. 
 
 [![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-gb/users/jefersonnochelli-2137/credentials/115e339f05a65c23)
 
