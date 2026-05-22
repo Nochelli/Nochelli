@@ -8,14 +8,20 @@ I'm Jeferson Nochelli
 🚀 Interested in AI, Automation and Cloud Computing
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
-</p>
+# Jeferson Nochelli
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="700">
 </p>
 
+## Mainframe Systems Administrator
+
+- z/OS
+- JCL
+- TWS
+- DB2
+- Azure
+- Python
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
