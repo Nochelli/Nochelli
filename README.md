@@ -1,6 +1,12 @@
-# Hi there 👋
+<p align="left">
+  <a href="https://learn.microsoft.com/en-gb/users/jefersonnochelli-2137/credentials/115e339f05a65c23">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  </a>
 
-I'm Jeferson Nochelli
+  <a href="https://learn.microsoft.com/en-gb/users/jefersonnochelli-2137/credentials/92b78b88ae83f1e6">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--104-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  </a>
+</p>
 
 💻 Mainframe System Administrator  
 ☁️ Azure Certified (AZ-900 | AZ-104)  
