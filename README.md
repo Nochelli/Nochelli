@@ -8,20 +8,8 @@ I'm Jeferson Nochelli
 🚀 Interested in AI, Automation and Cloud Computing
 
 
-# Jeferson Nochelli
+[![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-gb/users/jefersonnochelli-2137/credentials/92b78b88ae83f1e6)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="700">
-</p>
-
-## Mainframe Systems Administrator
-
-- z/OS
-- JCL
-- TWS
-- DB2
-- Azure
-- Python
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
