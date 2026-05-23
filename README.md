@@ -11,10 +11,10 @@ Experienced Systems Administrator working with Mainframe z/OS.
 
 <br> 
 <a href="https://learn.microsoft.com/en-gb/users/jefersonnochelli-2137/credentials/115e339f05a65c23">
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-gb/users/jefersonnochelli-2137/credentials/115e339f05a65c23" width="120"/>
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-gb/users/jefersonnochelli-2137/credentials/115e339f05a65c23" width="100"/>
 </a>
 <a href="https://learn.microsoft.com/en-gb/users/jefersonnochelli-2137/credentials/92b78b88ae83f1e6">
-  <img src="https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-gb/users/jefersonnochelli-2137/credentials/92b78b88ae83f1e6" width="120"/>
+  <img src="https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-gb/users/jefersonnochelli-2137/credentials/92b78b88ae83f1e6" width="100"/>
 </a>
 
 
