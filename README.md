@@ -11,6 +11,7 @@ Experienced Systems Administrator working with Mainframe z/OS.
 
 <br> 
 
+
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> _Please visit my repository_ `Monitor_Abends` _I recently worked on a Python automation that triggers alerts for ABEND jobs in the IBM z/OS Mainframe._ <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>
 
 
