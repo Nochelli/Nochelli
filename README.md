@@ -7,4 +7,4 @@ Experienced Systems Administrator working with Mainframe z/OS.
 [![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-gb/users/jefersonnochelli-2137/credentials/92b78b88ae83f1e6)
 
 
-_Visit my repository_ `Monitor_Abend` _I recently worked on a Python automation that triggers alerts for ABEND jobs in the IBM z/OS Mainframe._ 😉
+_Visit my repository_ `Monitor_Abends` _I recently worked on a Python automation that triggers alerts for ABEND jobs in the IBM z/OS Mainframe._ 😉
