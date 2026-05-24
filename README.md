@@ -1,6 +1,4 @@
-Hello! I’m Jeferson.
-
-Experienced Systems Administrator working with Mainframe z/OS. 
+Hi! That's me Jeferson. I'm a Systems Administrator working with Mainframe z/OS. 
 
 
 <p>
