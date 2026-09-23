@@ -1,8 +1,6 @@
 SysAdmin for z/OS Mainframe. 
 
-**Batch Processing & Job Monitoring | Production Scheduling | JCL | Job Overrides & Restarts | ABEND Analysis & Troubleshooting**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>&ensp;&ensp; IBM z/OS | JCL | TSO/ISPF | SDSF | IBM Z Workload Scheduler (IZWS) | ROSCOE | CA Endevor &ensp;&ensp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>&ensp;&ensp; **Batch Processing & Job Monitoring | Production Scheduling | JCL | Job Overrides & Restarts | ABEND Analysis & Troubleshooting | DevOps**&ensp;&ensp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> 
 
 &ensp;&ensp;
 <p>
