@@ -1,8 +1,8 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>&ensp;&ensp; SysAdmin for z/OS Mainframe. &ensp;&ensp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> 
+SysAdmin for z/OS Mainframe. 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>&ensp;&ensp; Batch Processing & Job Monitoring | Production Scheduling | JCL | Job Overrides & Restarts | ABEND Analysis & Troubleshooting &ensp;&ensp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>Batch Processing & Job Monitoring | Production Scheduling | JCL | Job Overrides & Restarts | ABEND Analysis & Troubleshooting &ensp;&ensp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> 
+ **IBM z/OS | JCL | TSO/ISPF | SDSF | IBM Z Workload Scheduler (IZWS) | ROSCOE | CA Endevor**
 
-🔧 IBM z/OS | JCL | TSO/ISPF | SDSF | IBM Z Workload Scheduler (IZWS) | ROSCOE | CA Endevor
 
 <p>
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/JefersonNochelli-2137/115E339F05A65C23?sharingId=11BDFC4EC3662307" style="text-decoration: none;"><img src="azure-fundamentals.png" width="90" style="border: none; display: inline-block;"/></a>&ensp;&ensp;
