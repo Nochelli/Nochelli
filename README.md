@@ -12,5 +12,4 @@
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00FF00&height=60&section=footer"/>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&customColorList=0:0078D4,1:00FF00&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00FF00&height=120&section=footer"/>
