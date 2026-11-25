@@ -3,8 +3,9 @@
 </div>
 
 <div align="left">
-  <span style="color:#00FF00; font-family:'Fira Code',monospace; font-size:19px; white-space:nowrap;">//* </span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=400&color=00FF00&left=true&vCenter=true&width=600&speed=60&lines=Hello!+I'm+Jeff;SysAdmin+for+Mainframe+z%2FOS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=400&color=00FF00&width=600&height=30&center=false&vCenter=true&speed=60&lines=//*+Hello!+I'm+Jeff;//*+SysAdmin+for+Mainframe+z%2FOS" />
 </div>
+
 
 
 
