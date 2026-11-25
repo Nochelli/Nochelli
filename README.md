@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+Jeff+here!;SysAdmin+for+Mainframe+z%2FOS" />
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>&ensp;&ensp;SysAdmin for z/OS Mainframe.&ensp;&ensp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> 
 
 ```
@@ -13,12 +17,6 @@
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/JefersonNochelli-2137/8770C42A0FFD33AC?sharingId=11BDFC4EC3662307" style="text-decoration: none;"><img src="az-400.png" width="90" style="border: none; display: inline-block;"/></a>&ensp;&ensp;
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SEU%20NOME&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-<!-- ANIMAÇÃO DE TEXTO -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo!;Desenvolvedor+em+evolu%C3%A7%C3%A3o;Apaixonado+por+tecnologia+%F0%9F%92%BB" />
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
