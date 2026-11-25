@@ -1,6 +1,7 @@
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=400&color=36BCF7&left=true&vCenter=true&width=600&speed=60&lines=Hello!+I'm+Jeff;SysAdmin+for+Mainframe+z%2FOS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=400&color=00FF00&left=true&vCenter=true&width=600&speed=60&lines=//*+Hello!+I'm+Jeff;//*+SysAdmin+for+Mainframe+z%2FOS" />
 </div>
+
 
 
 &ensp;&ensp;
