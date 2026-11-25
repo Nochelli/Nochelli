@@ -9,4 +9,4 @@
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/JefersonNochelli-2137/92B78B88AE83F1E6?sharingId=11BDFC4EC3662307" style="text-decoration: none;"><img src="Certificacao-AZ-104.png" width="90" style="border: none; display: inline-block;"/></a>&ensp;&ensp;
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/JefersonNochelli-2137/8770C42A0FFD33AC?sharingId=11BDFC4EC3662307" style="text-decoration: none;"><img src="az-400.png" width="90" style="border: none; display: inline-block;"/></a>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=color=0:2193B0,100:6DD5A7&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:0000FF&height=120&section=footer"/>
